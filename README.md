@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Wraith
 - learning python
 
 <!---
